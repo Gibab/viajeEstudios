@@ -8,8 +8,8 @@
   "properties": {
     "nombre": {
       "type": "string",
-      "length":30,
-      "required": true
+      "required": true,
+      "length": 30
     },
     "fechaInicio": {
       "type": "date",

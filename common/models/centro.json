@@ -12,12 +12,12 @@
     },
     "nombre": {
       "type": "string",
-      "length":80,
-      "required": true
+      "required": true,
+      "length": 80
     },
     "localidad": {
       "type": "string",
-      "length":50
+      "length": 50
     },
     "verificado": {
       "type": "boolean"

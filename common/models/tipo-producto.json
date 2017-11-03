@@ -8,8 +8,8 @@
   "properties": {
     "nombre": {
       "type": "string",
-      "length":45,
-      "required": true
+      "required": true,
+      "length": 45
     }
   },
   "validations": [],
